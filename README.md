@@ -4,3 +4,4 @@
 - i study on netology
 - i have 2 cats
 - i am SuperMan
+- i am from Uzbekistan
